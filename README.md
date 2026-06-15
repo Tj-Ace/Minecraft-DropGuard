@@ -15,9 +15,7 @@ Drop Guard is a lightweight client-side mod that intercepts the player’s drop 
 ## Release Contents
 
 - NeoForge jar
-- NeoForge sources jar
 - Fabric jar
-- Fabric sources jar
 - Separate source trees for each loader
 
 ## Behavior
