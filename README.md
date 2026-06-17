@@ -4,6 +4,8 @@ Stop accidental item drops without changing normal inventory handling.
 
 Drop Guard is a lightweight client-side mod that intercepts the player’s drop key on the client and blocks the world-drop action unless you are actively interacting with an inventory screen. If you rebound the drop key to something other than `Q`, the mod follows that binding automatically because it checks the live keybind state instead of hardcoding a specific key.
 
+https://www.virustotal.com/gui/file/1f696b370e3df84d60676f51a3004c6f6a7cd9fb9e9a968a49e07732be1fb3c2
+
 ## What it does
 
 - Prevents accidental item drops while moving around in the world
